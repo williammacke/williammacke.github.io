@@ -1,0 +1,27 @@
+# jemdoc: menu{MENU}{index.html}
+= William Macke
+
+~~~
+{}{img_left}{static/pic.jpg}{alt text}{200px}{200}{IMGLINKTARGET}
+Undergraduate Research Assistant \n
+Lab Goes Here \n
+[https://engineering.utulsa.edu/computer-science/ Department of Computer Science] \n
+[https://www.utulsa.edu/ University of Tulsa] \n
+\n
+{{<img src="static/mail.png" width="16px" height="16px" />&nbsp;}} william-macke \[AT\] utulsa \[DOT\] edu
+{{<img src="static/github.png" width="16px" height="16px" />&nbsp;}} [https://github.com/williammacke Github] {{&nbsp;&nbsp;<img src="static/linkedin.png" width="16px" height="16px" />&nbsp;}} [https://www.linkedin.com/in/william-macke-1079a2124/ LinkedIn] \n
+
+[static/cv.pdf Curriculum Vitae]
+~~~
+
+== About
+
+I'm a fourth-year undergraduate in the multiagent systems laboratory
+at the University of Tulsa, where I'm fortunate to be advised by Dr. Sandip Sen.
+My research is focused on multi-agent systems, especially in the context of dynamic online matching.
+
+{{<h2 id="pubs">Publications</h2>}}
+
+- [index.html Link to Publication] \n
+  [~/index.html *William Macke*], Firstname Lastname, Mr. Man \n
+  Venue. August 2018.
