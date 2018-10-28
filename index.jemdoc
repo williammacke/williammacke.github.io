@@ -4,12 +4,12 @@
 ~~~
 {}{img_left}{static/pic.jpg}{alt text}{200px}{200}{IMGLINKTARGET}
 Undergraduate Research Assistant \n
-Lab Goes Here \n
+Multi-Agent Systems Research Lab \n
 [https://engineering.utulsa.edu/computer-science/ Department of Computer Science] \n
 [https://www.utulsa.edu/ University of Tulsa] \n
 \n
 {{<img src="static/mail.png" width="16px" height="16px" />&nbsp;}} william-macke \[AT\] utulsa \[DOT\] edu
-{{<img src="static/github.png" width="16px" height="16px" />&nbsp;}} [https://github.com/williammacke Github] {{&nbsp;&nbsp;<img src="static/linkedin.png" width="16px" height="16px" />&nbsp;}} [https://www.linkedin.com/in/william-macke-1079a2124/ LinkedIn] \n
+{{<img src="static/github.png" width="16px" height="16px" />&nbsp;}} [https://github.com/williammacke Github]  \n
 
 [static/cv.pdf Curriculum Vitae]
 ~~~
@@ -22,6 +22,10 @@ My research is focused on multi-agent systems, especially in the context of dyna
 
 {{<h2 id="pubs">Publications</h2>}}
 
-- [index.html Link to Publication] \n
-  [~/index.html *William Macke*], Firstname Lastname, Mr. Man \n
-  Venue. August 2018.
+- [https://link.springer.com/chapter/10.1007/978-3-319-71679-4_2 Link to Publication] \n
+	Nathaniel Beckemeyer, [index.html *William Macke*], and Sandip Sen, Stable Configurations
+with (Meta)Punishing Agents. MABS 2017 \n
+- [http://www.ifaamas.org/Proceedings/aamas2017/pdfs/p1484.pdf Link to Publication] \n
+Jon Bolin, Chad Crawford, [index.html *William Macke*], Sam Beckman and Sandip Sen, GestureBased
+Control of Autonomous UAVs, AAMAS 2017 \n
+
