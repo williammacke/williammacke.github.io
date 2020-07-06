@@ -2,13 +2,13 @@
 = William Macke
 
 ~~~
-{}{img_left}{}{}{175px}{}{}
-Undergraduate Research Assistant \n
-Multi-Agent Systems Research Lab \n
-[https://engineering.utulsa.edu/computer-science/ Department of Computer Science] \n
-[https://www.utulsa.edu/ University of Tulsa] \n
+{}{img_left}{static/head_shot.png}{}{175px}{}{}
+Graduate Student \n
+Learning Agents Research Group \n
+[https://www.cs.utexas.edu Department of Computer Science] \n
+[https://www.utexas.edu/ University of Texas at Austin] \n
 \n
-{{<img src="static/mail.png" width="16px" height="16px" />&nbsp;}} william-macke \[AT\] utulsa \[DOT\] edu
+{{<img src="static/mail.png" width="16px" height="16px" />&nbsp;}} wmacke \[AT\] cs \[DOT\] utexas \[DOT\] edu
 {{<img src="static/github.png" width="16px" height="16px" />&nbsp;}} [https://github.com/williammacke Github]  \n
 
 [static/cv.pdf Curriculum Vitae]
@@ -16,9 +16,9 @@ Multi-Agent Systems Research Lab \n
 
 == About
 
-I'm a fourth-year undergraduate in the multiagent systems laboratory
-at the University of Tulsa, where I'm fortunate to be advised by Dr. Sandip Sen.
-My research is focused on multi-agent systems, especially in the context of dynamic online matching.
+I'm a graduate student in the Learning Agents Research Group
+at the University of Texas at Austin, where I'm fortunate to be advised by Dr. Peter Stone.
+My research is focused on multi-agent systems, especially in the context of ad hoc teamwork.
 
 {{<h2 id="pubs">Publications</h2>}}
 
@@ -29,3 +29,13 @@ with (Meta)Punishing Agents. MABS 2017 \n
 Jon Bolin, Chad Crawford, [index.html *William Macke*], Sam Beckman and Sandip Sen, GestureBased
 Control of Autonomous UAVs, AAMAS 2017 \n
 
+- [https://dl.acm.org/doi/pdf/10.1145/3328526.3329619?casa_token=F_j8FEBoOgQAAAAA:YjYVGy6i2dUI-h0gEMJkFBVwPZ-MegtyNbReSSEgJYxGHFBlY4c-I_qWw9zyGF0RSfS3g3_ftRlH Link to Publication] \n
+Zhuoshu Li, Kelsey Lieberman, [index.html *William Macke*], Sofia Carrillo, Chien-Ju Ho, Jason Wellen, and Sanmay Das. Incorporating compatible pairs in kidney exchange:
+A dynamic weighted matching model. In Proceedings of the 2019 ACM Conferenceon Economics and Computation , EC ’19, pages 349–367, New York, NY, USA, 2019.ACM \n
+
+- [https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/IJCAI2020-Mirsky.pdf Link to Publication] \n
+Reuth Mirsky, [index.html *William Macke*], Andy Wang, Harel Yedidsion, and Peter Stone.
+A penny for your thoughts: The value of communication in ad hoc teamwork, IJCAI 2020\n
+
+- [https://arxiv.org/pdf/2002.07224.pdf Link to Publication] \n
+Garret Bingham, [index.html *William Macke*], Risto Miikkulainen. Learning with EvolvedActivation Functions, GECCO 2020 \n
