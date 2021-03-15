@@ -22,34 +22,34 @@ My research is focused on multi-agent systems, especially in the context of ad h
 
 {{<h2 id="pubs">Publications</h2>}}
 
-- [https://link.springer.com/chapter/10.1007/978-3-319-71679-4_2 Link to Publication] \n
-	Nathaniel Beckemeyer, [index.html *William Macke*], and Sandip Sen, Stable Configurations
-with (Meta)Punishing Agents. AAMAS workshop on Multi-Agent Based Simulations (MABS), 2017 \n
-- [http://www.ifaamas.org/Proceedings/aamas2017/pdfs/p1484.pdf Link to Publication] \n
-Jon Bolin, Chad Crawford, [index.html *William Macke*], Sam Beckman and Sandip Sen, GestureBased
-Control of Autonomous UAVs, Extended Abstract at AAMAS 2017 \n
 
-- [https://dl.acm.org/doi/pdf/10.1145/3328526.3329619?casa_token=F_j8FEBoOgQAAAAA:YjYVGy6i2dUI-h0gEMJkFBVwPZ-MegtyNbReSSEgJYxGHFBlY4c-I_qWw9zyGF0RSfS3g3_ftRlH Link to Publication] \n
-Zhuoshu Li, Kelsey Lieberman, [index.html *William Macke*], Sofia Carrillo, Chien-Ju Ho, Jason Wellen, and Sanmay Das. Incorporating compatible pairs in kidney exchange:
-A dynamic weighted matching model. In Proceedings of the 2019 ACM Conferenceon Economics and Computation , EC ’19, pages 349–367, New York, NY, USA, 2019.ACM \n
+- [index.html *William Macke*], Reuth Mirsky and Peter Stone.
+Expected Value of Communication for Planning in Ad Hoc Teamwork, Accepted to AAAI 2021
+
+- Jiaxun Cui, [index.html *William Macke*], Aastha Goyal, Harel Yedidsion, Daniel Urieli and Peter Stone.
+Multiagent Driving Policy for Congestion Reduction in a Large Scale Scenario, NeurIPS Workshop on Machine Learning for Autonomous Driving, 2020 \n
+
+- [index.html *William Macke*], Reuth Mirsky and Peter Stone.
+Expected Divergence Point of Plans in Ad Hoc Teamwork,  NeurIPS Workshop on Cooperative AI (CoopAI), 2020 \n
+
+- [index.html *William Macke*], Reuth Mirsky and Peter Stone.
+Query Content in Sequential One-shot Multi-Agent Limited Inquiries when Communicating in Ad Hoc Teamwork,  ICAPS Workshop on Dis-tributed Multi-Agent Planning (DMAP), 2020 \n
+
+- [https://arxiv.org/pdf/2002.07224.pdf Link to Publication] \n
+Garret Bingham, [index.html *William Macke*], Risto Miikkulainen. Learning with Evolved Activation Functions, GECCO 2020 \n
 
 - [https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/IJCAI2020-Mirsky.pdf Link to Publication] \n
 Reuth Mirsky, [index.html *William Macke*], Andy Wang, Harel Yedidsion, and Peter Stone.
 A penny for your thoughts: The value of communication in ad hoc teamwork, IJCAI 2020\n
 
-- [https://arxiv.org/pdf/2002.07224.pdf Link to Publication] \n
-Garret Bingham, [index.html *William Macke*], Risto Miikkulainen. Learning with Evolved Activation Functions, GECCO 2020 \n
+- [https://dl.acm.org/doi/pdf/10.1145/3328526.3329619?casa_token=F_j8FEBoOgQAAAAA:YjYVGy6i2dUI-h0gEMJkFBVwPZ-MegtyNbReSSEgJYxGHFBlY4c-I_qWw9zyGF0RSfS3g3_ftRlH Link to Publication] \n
+Zhuoshu Li, Kelsey Lieberman, [index.html *William Macke*], Sofia Carrillo, Chien-Ju Ho, Jason Wellen, and Sanmay Das. Incorporating compatible pairs in kidney exchange:
+A dynamic weighted matching model. In Proceedings of the 2019 ACM Conferenceon Economics and Computation , EC ’19, pages 349–367, New York, NY, USA, 2019.ACM \n
 
-- [index.html *William Macke*], Reuth Mirsky and Peter Stone.
-Query Content in Sequential One-shot Multi-Agent Limited Inquiries when Communicating in Ad Hoc Teamwork,  ICAPS Workshop on Dis-tributed Multi-Agent Planning (DMAP), 2020 \n
+- [http://www.ifaamas.org/Proceedings/aamas2017/pdfs/p1484.pdf Link to Publication] \n
+Jon Bolin, Chad Crawford, [index.html *William Macke*], Sam Beckman and Sandip Sen, GestureBased
+Control of Autonomous UAVs, Extended Abstract at AAMAS 2017 \n
 
-
-- [index.html *William Macke*], Reuth Mirsky and Peter Stone.
-Expected Divergence Point of Plans in Ad Hoc Teamwork,  NeurIPS Workshop on Cooperative AI (CoopAI), 2020 \n
-
-- Jiaxun Cui, [index.html *William Macke*], Aastha Goyal, Harel Yedidsion, Daniel Urieli and Peter Stone.
-Multiagent Driving Policy for Congestion Reduction in a Large Scale Scenario, NeurIPS Workshop on Machine Learning for Autonomous Driving, 2020 \n
-
-
-- [index.html *William Macke*], Reuth Mirsky and Peter Stone.
-Expected Value of Communication for Planning in Ad Hoc Teamwork, Accepted to AAAI 2021
+- [https://link.springer.com/chapter/10.1007/978-3-319-71679-4_2 Link to Publication] \n
+	Nathaniel Beckemeyer, [index.html *William Macke*], and Sandip Sen, Stable Configurations
+with (Meta)Punishing Agents. AAMAS workshop on Multi-Agent Based Simulations (MABS), 2017 \n
