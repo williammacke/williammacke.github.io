@@ -6,7 +6,7 @@ HDOCS=$(addsuffix .html, $(DOCS))
 docs : $(HDOCS)
 
 %.html : %.jemdoc MENU mysite.conf
-	./jemdoc -c mysite.conf -o $@ $<
+	jemdoc $<
 
 .PHONY : clean
 clean :

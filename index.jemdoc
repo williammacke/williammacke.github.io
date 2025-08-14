@@ -3,12 +3,10 @@
 
 ~~~
 {}{img_left}{static/head_shot.png}{}{175px}{}{}
-Graduate Student \n
-Learning Agents Research Group \n
-[https://www.cs.utexas.edu Department of Computer Science] \n
-[https://www.utexas.edu/ University of Texas at Austin] \n
+AI Engineer \n
+MITRE \n
 \n
-{{<img src="static/mail.png" width="16px" height="16px" />&nbsp;}} wmacke \[AT\] cs \[DOT\] utexas \[DOT\] edu
+{{<img src="static/mail.png" width="16px" height="16px" />&nbsp;}} william.a.macke@gmail.com
 {{<img src="static/github.png" width="16px" height="16px" />&nbsp;}} [https://github.com/williammacke Github]  \n
 
 [static/cv.pdf Curriculum Vitae]
@@ -16,9 +14,8 @@ Learning Agents Research Group \n
 
 == About
 
-I'm a graduate student in the Learning Agents Research Group
-at the University of Texas at Austin, where I'm fortunate to be advised by Dr. Peter Stone.
-My research is focused on multi-agent systems, especially in the context of ad hoc teamwork.
+I'm an AI Engineer at MITRE.
+My interest is focused on multi-agent systems and reinforcement learning, especially in the context of ad hoc teamwork.
 
 {{<h2 id="pubs">Publications</h2>}}
 
