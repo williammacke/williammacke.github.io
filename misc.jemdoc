@@ -3,5 +3,9 @@
 
 == Programming Projects
 
-- [https://github.com/williammacke/kmeans Kmeans] \n
-  A small demo demonstrating the kmeans clustering algorithm
+- [https://github.com/janus-llm/janus-llm] \n
+  LLMs for modernizing legacy IT Systems
+- [https://github.com/mitrefireline/simharness] \n
+  Reinforcement Learning for Wildfire Mitigation
+- [https://github.com/williammacke/GraphConvolutionalNetworks] \n
+  Lightweight implementation of Graph Convultion Neural Networks in cuSPARSE
